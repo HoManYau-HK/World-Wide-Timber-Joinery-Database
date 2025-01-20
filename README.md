@@ -8,3 +8,5 @@ CN - Chinese regional timber frame joints
 EU - European regionaltimber frame joints
 
 JP - Japanese regional timber frame joints
+
+WW - World Wide
